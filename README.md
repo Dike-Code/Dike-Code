@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 
 ## <p align="center"><img alt="tech_gif" align="center" width="100%" src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"></p>
 
-<p align="left" style="margin-top:5px;"> <a href="https://twitter.com/dike_o_clinton" target="blank"><img src="https://img.shields.io/twitter/follow/dike_o_clinton?logo=twitter&style=for-the-badge" alt="dike_o_clinton" /></a> </p>
-
+<p align="center"> <a href="https://twitter.com/dike_o_clinton" target="blank"><img src="https://img.shields.io/twitter/follow/dike_o_clinton?logo=twitter&style=for-the-badge" alt="dike_o_clinton" /></a> </p>
+<div style="display-flex">
+   <div 
 🌱 I’m currently learning **React, PHP, NodeJs**
 
 👨‍💻 All of my projects are available at [https://dike-code.netlify.app/](https://dike-code.netlify.app/)
 
 💬 Ask me about **Web Development.**
-
+   </div>
+<div>
 <h3 align="left">Connect with me:</h3>
-
-<p align="left">
 
 <a href="https://twitter.com/dike_o_clinton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dike_o_clinton" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dike_o_clinton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dike_o_clinton" height="30" width="40" /></a>
@@ -47,3 +47,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dike-code&show_icons=true&locale=en" alt="dike-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dike-code&" alt="dike-code" /></p>
+</div>
+</div>
