@@ -1,4 +1,4 @@
-No<h1 align="center" >Hi 👋, I'm Dike_O Clinton</h1>
+<h1 align="center" >Hi 👋, I'm Dike_O Clinton</h1>
 <h3 align="center">A self taught ardent frontend developer from Nigeria.</h3>
 
 <p align="center"> <a href="https://twitter.com/dike_o_clinton" target="blank"><img src="https://img.shields.io/twitter/follow/dike_o_clinton?logo=twitter&style=for-the-badge" alt="dike_o_clinton" /></a> </p>
