@@ -22,14 +22,12 @@ Here are some ideas to get you started:
 ## <p align="center"><img alt="tech_gif" align="center" width="100%" src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"></p>
 
 <p align="center"> <a href="https://twitter.com/dike_o_clinton" target="blank"><img src="https://img.shields.io/twitter/follow/dike_o_clinton?logo=twitter&style=for-the-badge" alt="dike_o_clinton" /></a> </p>
-<div style="display-flex">
-   <div 
-🌱 I’m currently learning **React, PHP, NodeJs**
+<div class="flex" >
+<p> 🌱 I’m currently learning **React, PHP, NodeJs**</p>
 
-👨‍💻 All of my projects are available at [https://dike-code.netlify.app/](https://dike-code.netlify.app/)
+<p> 👨‍💻 All of my projects are available at [https://dike-code.netlify.app/](https://dike-code.netlify.app/)</p>
 
-💬 Ask me about **Web Development.**
-   </div>
+<p> 💬 Ask me about **Web Development.**</p>
 <div>
 <h3 align="left">Connect with me:</h3>
 
