@@ -1,9 +1,3 @@
-```<style>
- h1{
-  color:red !important;
-  }
- </style>
- ```
 <h1 align="center" >Hi 👋, I'm Dike_O Clinton</h1>
 <h3 align="center">A self taught ardent frontend developer from Nigeria.</h3>
 
@@ -31,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dike-code&show_icons=true&locale=en" alt="dike-code" /></p>
 
-<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dike-code&" alt="dike-code" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dike-code&" alt="dike-code" /></p>
