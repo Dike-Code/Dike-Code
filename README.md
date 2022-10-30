@@ -1,8 +1,9 @@
-<style>
+```<style>
  h1{
   color:red !important;
   }
  </style>
+ ```
 <h1 align="center" >Hi 👋, I'm Dike_O Clinton</h1>
 <h3 align="center">A self taught ardent frontend developer from Nigeria.</h3>
 
